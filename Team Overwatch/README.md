@@ -1,4 +1,4 @@
-![image](https://github.com/OneAutumnLeef/ggj-24-submissions/assets/119778948/f782f929-d29c-44f8-a701-e1e881c3c870)## 👩🏻‍💻 DESCRIPTION
+## 👩🏻‍💻 DESCRIPTION
 Welcome to DankDraw.io 🎭, a digital rendition of the classic game of pictionary, where players utilize a chatroom to guess answers and control gameplay. This project was heavily inspired by the popular online game, [*skribbl.io*](https://skribbl.io/).
 
 DankDraw.io was made by [@OneAutumnLeef](https://github.com/OneAutumnLeef) (Deraj), [@Sharankarthick](https://github.com/Sharankarthick) (Sharan Karthick), [@SHAN2004-IIIT](https://github.com/SHAN2004-IIIT) (Shanmathe SA), [@MaithreyanM05](https://github.com/MaithreyanM05) (Maithreyan M) and [@YashwanthS-7](https://github.com/YashwanthS-7) (Yashwanth S)as part of our 2024 Global Game Jam. This whimsical platform merges memes, madness, and web development prowess into a sensational experience.
@@ -9,6 +9,9 @@ This game was created with HTML/CSS/JavaScript, with the help of runtime environ
 ![]([1.png](https://media.discordapp.net/attachments/806169904403185684/1201125927665532980/1.png?ex=65c8aeb0&is=65b639b0&hm=b9c4135a98432ae8628cf7dfcfe147260fe2e8e79a80aa416adf393ab9264226&=&format=webp&quality=lossless&width=625&height=346))
 
 ## 💡 INSTRUCTIONS 
+⬇ help command of skribbl.io
+<br>
+<img src="./visuals/help.png" height=750>
 * Type commands directly into the chatbox
 * After starting a round (with the start command)
   * The chat will choose a random player as that round's drawer and will give them a keyword to draw out
