@@ -6,7 +6,8 @@ DankDraw.io was made by [@OneAutumnLeef](https://github.com/OneAutumnLeef) (Dera
 This game was created with HTML/CSS/JavaScript, with the help of runtime environments/frameworks/etc. such as [Node.js](https://nodejs.org/en), [Express.js](https://expressjs.com/), and [Socket.IO](https://socket.io/) for our backend
 
 ⬇ opening still of DankDraw.io
-![]([1.png](https://media.discordapp.net/attachments/806169904403185684/1201125927665532980/1.png?ex=65c8aeb0&is=65b639b0&hm=b9c4135a98432ae8628cf7dfcfe147260fe2e8e79a80aa416adf393ab9264226&=&format=webp&quality=lossless&width=625&height=346))
+<br>
+![1.png](https://media.discordapp.net/attachments/806169904403185684/1201125927665532980/1.png?ex=65c8aeb0&is=65b639b0&hm=b9c4135a98432ae8628cf7dfcfe147260fe2e8e79a80aa416adf393ab9264226&=&format=webp&quality=lossless&width=625&height=346))
 
 ## 💡 INSTRUCTIONS 
 ⬇ help command of skribbl.io
