@@ -1,0 +1,1 @@
+https://github.com/SendouD/global-game-jam.git
